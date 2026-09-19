@@ -25,7 +25,7 @@
     "workbench.colorTheme": "Kanagawa",
     "workbench.activityBar.location": "top",
     "vim.foldfix": true,
-    "workbench.sideBar.location": "right",
+    "workbench.sideBar.location": "left",
     "settingsSync.ignoredExtensions": [],
     "chat.disableAIFeatures": true
 }
